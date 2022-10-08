@@ -42,20 +42,4 @@
 
 ## 3.从远程拉去项目文件
 
-
-
-
-
-
-
-## 4. GitHub
-
-- 在向GitHub提交新改动时附加的说明信息会显示在文件名后。
-  - ![image-20221008173430786](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221008173430786.png)
-
-
-
-
-
-
-
+>>>>>>> 4b295c5e34f92ac276237c053803d42f17a8a6a3
